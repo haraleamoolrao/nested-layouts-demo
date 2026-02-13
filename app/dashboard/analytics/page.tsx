@@ -1,4 +1,3 @@
-{/*This is the analytics page*/}
 export default function AnalyticsPage() {
   return (
     <div className="bg-white rounded-lg shadow-md p-6">
