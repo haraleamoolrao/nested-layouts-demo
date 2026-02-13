@@ -1,3 +1,4 @@
+{/*this is the users page*/}
 export default function UsersPage() {
   const users = [
     { id: 1, name: 'John Doe', email: 'john@example.com', role: 'Admin', status: 'Active' },
