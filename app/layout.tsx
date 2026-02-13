@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Nested Layouts Demo',
   description: 'Learn how nested layouts work in Next.js',
 }
-
+{/*Hello world*/}
 export default function RootLayout({
   children,
 }: {
